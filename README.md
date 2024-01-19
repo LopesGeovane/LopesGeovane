@@ -58,3 +58,9 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LopesGeovane/LopesGeovane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LopesGeovane.LopesGeovane" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+pessoa!+👋;+Eu+sou+Geovane!;" />
+</h1>
+
