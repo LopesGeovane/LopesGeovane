@@ -58,12 +58,14 @@ Um apaixonado estudante de engenharia mecatrônica.
 <h2 align="center"> 🐱‍💻Portfolio </h2>
 <br/>
 
-<a href="https://github.com/LopesGeovane/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LopesGeovane&repo=MeuPortifolio&theme=calm_pink" />
-</a>
-<a href="https://github.com/LopesGeovane/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LopesGeovane&repo=SiteProjetoBateriaWifi&theme=calm_pink" />
-</a>
+<div align="center">
+    <a href="https://github.com/LopesGeovane/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LopesGeovane&repo=MeuPortifolio&theme=calm_pink" />
+    </a>
+    <a href="https://github.com/LopesGeovane/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LopesGeovane&repo=SiteProjetoBateriaWifi&theme=calm_pink" />
+    </a>
+</div>
 
 <hr/>
 
